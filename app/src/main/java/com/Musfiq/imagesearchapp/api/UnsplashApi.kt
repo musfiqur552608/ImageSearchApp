@@ -1,6 +1,6 @@
-package com.codinginflow.imagesearchapp.api
+package com.Musfiq.imagesearchapp.api
 
-import com.codinginflow.imagesearchapp.BuildConfig
+import com.Musfiq.imagesearchapp.BuildConfig
 import retrofit2.http.GET
 import retrofit2.http.Headers
 import retrofit2.http.Query

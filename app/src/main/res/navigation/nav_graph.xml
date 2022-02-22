@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/galleryFragment"
-        android:name="com.codinginflow.imagesearchapp.ui.gallery.GalleryFragment"
+        android:name="com.Musfiq.imagesearchapp.ui.gallery.GalleryFragment"
         android:label="fragment_gallery"
         tools:layout="@layout/fragment_gallery" />
 </navigation>

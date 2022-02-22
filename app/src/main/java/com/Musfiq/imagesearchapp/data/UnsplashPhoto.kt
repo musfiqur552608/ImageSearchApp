@@ -1,4 +1,4 @@
-package com.codinginflow.imagesearchapp.data
+package com.Musfiq.imagesearchapp.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
